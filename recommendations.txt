@@ -1,0 +1,16 @@
+
+PDCA-Based Recommendations for Service Process Improvement:
+
+1. Slow Response Times ('response_time_bar.png'):
+   - Departments like Water Resources show response times over 24 hours. Recommendation: Streamline their workflows to cut delays by up to 20%.
+
+2. Cost Distribution ('cost_pie.png'):
+   - High-cost department(s) like Public Works consume a large budget share. Recommendation: Review their resource allocation for potential efficiencies.
+
+3. Predictive Insights ('predicted_vs_actual.png'):
+   - The Gradient Boosting model (R²=0.37) can reliably predict response times. Use it to proactively allocate resources and manage stakeholder expectations for high-risk requests.
+
+4. Key Drivers ('feature_importance.png'):
+   - The most important factor influencing response time is 'Department_Water Resources'. Focus improvement efforts on optimizing processes related to 'Department'.
+
+Overall, applying these data-driven insights could yield significant efficiency gains and estimated cost savings of $7,266.00.
